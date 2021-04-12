@@ -1,2 +1,2 @@
 # vonic_readerapp
-React Native Reader App
+React Native Reader App developed by chibucious
